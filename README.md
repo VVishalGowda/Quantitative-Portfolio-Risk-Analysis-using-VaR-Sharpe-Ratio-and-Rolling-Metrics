@@ -65,12 +65,22 @@ python portfolio_analysis.py
 
 ---
 
-Example Output
+Visualizations
 
-- Portfolio returns visualization
-- Drawdown curve
-- Rolling volatility and Sharpe ratio plots
-- Risk summary with insights
+Portfolio Growth
+![Portfolio Growth](Port growth image.png)
+
+Daily Returns
+![Daily Returns](daily returns image.png)
+
+Drawdown
+![Drawdown](drawdown image.png)
+
+Rolling Volatility
+![Rolling Volatility](rolling vol image.png)
+
+Rolling Sharpe Ratio
+![Rolling Sharpe](rolling sharpe image.png)
 
 ---
 
