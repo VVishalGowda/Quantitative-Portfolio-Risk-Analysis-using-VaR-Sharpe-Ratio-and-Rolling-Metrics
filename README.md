@@ -68,19 +68,19 @@ python portfolio_analysis.py
 Visualizations
 
 Portfolio Growth
-![Portfolio Growth](Port growth image.png)
+![Portfolio Growth](Port_growth.png)
 
 Daily Returns
-![Daily Returns](daily returns image.png)
+![Daily Returns](daily_returns.png)
 
 Drawdown
-![Drawdown](drawdown image.png)
+![Drawdown](drawdown.png)
 
 Rolling Volatility
-![Rolling Volatility](rolling vol image.png)
+![Rolling Volatility](rolling_volatility.png)
 
 Rolling Sharpe Ratio
-![Rolling Sharpe](rolling sharpe image.png)
+![Rolling Sharpe](rolling_sharpe_ratio.png)
 
 ---
 
